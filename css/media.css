@@ -1,0 +1,20 @@
+@media (max-width: 1230px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1190px) {
+    .cardswrapper {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 800px) {
+    nav {
+        display: none;
+    }
+    .fa-bars {
+        display: inline-block;
+    }
+}
